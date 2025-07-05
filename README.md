@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Eslam Amin</h1>
 <h3 align="center">A passionate Software Engineer From Egypt</h3>
-<br>💬 Junior Backend Developer who is willing to do his best to improve his skills, and become a Full-Stack Developer, <br>🔭 I'm a Problem-Solving Enthusiast, <br>🤝 I Work Hard every day to be a better version of myself, <br>⚡ I seek to be a Full-Stack Developer.<br>
+I’m a computer Science Graduate, and a Highly skilled and dedicated backend developer with extensive experience in building robust and scalable server-side applications using Node.js. Proficient in designing and implementing RESTful APIs, managing databases, and ensuring security and performance optimization. Good Knowledge in ReactJS, and frontend technologies, Strong problem-solving abilities and a passion for continuous learning and improvement. Adept at collaborating with cross-functional teams to deliver high-quality software solutions.
 
 
 <h3 align="left">Connect with me:</h3>
