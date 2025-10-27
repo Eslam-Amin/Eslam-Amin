@@ -113,6 +113,10 @@ From designing database schemas to deploying Dockerized services, I focus on **c
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam-Amin&theme=radical&hide_border=false" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam-Amin&layout=compact&theme=radical" />
+</p>
+
 ---
 
 ### 💬 Random Dev Quote
