@@ -68,7 +68,7 @@ From designing database schemas to deploying Dockerized services, I focus on **c
 ### 💼 Work Experience
 
 #### 🟢 **AIM Technologies** — Software Engineer  
-📅 *June 2025 – Present* · Cairo, Egypt  
+📅 *June 2025 – November 2025* · Cairo, Egypt  
 💻 *Tech:* Node.js · Express.js · MongoDB · React.js · NestJS · Jenkins  
 
 - Contributed to **tool rebranding** and the development of new platform features.  
