@@ -77,16 +77,6 @@ From designing database schemas to deploying Dockerized services, I focus on **c
 
 ---
 
-#### 🟠 **AmwalEG** — Backend Developer *(Part-time, Remote)*  
-📅 *Feb 2025 – Apr 2025*  
-💻 *Tech:* Node.js · NestJS · PostgreSQL · TypeORM  
-
-- Helped migrate legacy systems from **raw SQL** to **TypeORM**.  
-- Contributed to the transition from **Express.js** to **NestJS** for better scalability.  
-- Improved API maintainability and structure through modular architecture practices.  
-
----
-
 #### 🟣 **Neon** — Backend Developer *(Full-time)*  
 📅 *May 2024 – June 2025* · Cairo, Egypt  
 💻 *Tech:* Node.js · Express.js · MongoDB · PostgreSQL · Paymob · Socket.io  
@@ -95,6 +85,16 @@ From designing database schemas to deploying Dockerized services, I focus on **c
 - Improved **query performance** and optimized data flow for high-traffic endpoints.  
 - Integrated **Paymob** for payment processing and built real-time modules using Socket.io.  
 - Maintained clean, modular codebase with **Express.js** and service-driven architecture.  
+
+---
+
+#### 🟠 **AmwalEG** — Backend Developer *(Part-time, Remote)*  
+📅 *Feb 2025 – Apr 2025*  
+💻 *Tech:* Node.js · NestJS · PostgreSQL · TypeORM  
+
+- Helped migrate legacy systems from **raw SQL** to **TypeORM**.  
+- Contributed to the transition from **Express.js** to **NestJS** for better scalability.  
+- Improved API maintainability and structure through modular architecture practices.  
 
 ---
 
