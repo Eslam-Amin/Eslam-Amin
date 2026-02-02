@@ -4,12 +4,12 @@
 </h1>
 
 <h3 align="center">
-  💻 Backend Engineer | Node.js | NestJS | MongoDB | PostgreSQL | Redis
+  💻 Backend Engineer | Node.js | NestJS | Go | MongoDB | PostgreSQL | Redis
 </h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+Scalable+APIs+with+Node.js;Crafting+Clean+Architecture+with+NestJS;Optimizing+Data+with+MongoDB+Aggregations;Designing+Efficient+Schemas+with+PostgreSQL;Designing+Real-Time+Systems+with+Socket.io;Using+Redis+for+Caching+and+Queues;Ensuring+Code+Quality+through+Automated+Testing+with+Jest;Automating+Deployments+with+Docker,+CI%2FCD+and+Jenkins" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+Scalable+APIs+with+Node.js;Mastering+Concurrent+Systems+with+Go;Crafting+Clean+Architecture+with+NestJS;Exploring+High-Performance+APIs+with+Gin;Optimizing+Data+with+MongoDB+Aggregations;Designing+Efficient+Schemas+with+PostgreSQL;Using+Redis+for+Caching+and+Queues" 
     alt="Typing SVG" />
 </p>
 
@@ -35,8 +35,10 @@ From designing database schemas to deploying Dockerized services, I focus on **c
 #### ⚙️ Core Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-0081CB?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 #### 🗄️ Databases & Caching
@@ -51,6 +53,12 @@ From designing database schemas to deploying Dockerized services, I focus on **c
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+#### 🚀 Currently Exploring
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) 
+![Gin](https://img.shields.io/badge/Gin-0081CB?style=flat-square&logo=go&logoColor=white)
+- Deep diving into **Goroutines** and **Channels** for high-concurrency tasks.
+- Re-implementing microservices from Node.js to Go to compare performance.
 
 ---
 
