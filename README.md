@@ -75,6 +75,14 @@ From designing database schemas to deploying Dockerized services, I focus on **c
 
 ### 💼 Work Experience
 
+#### 🐾 **OneFurever** — Backend Developer
+📅 *December 2025 – Present* · Remote
+💻 *Tech:* Node.js · Express.js · PostgreSQL · Redis · Modular Architecture
+
+- **Architected and Refactored** the platform from a traditional Route/Controller pattern to a scalable **Modular Architecture**.
+- Introduced a **Service Layer** to decouple business logic, improving code reusability and maintainability.
+- **Optimized system performance** and streamlined data flow for a specialized pet-focused social media platform.
+
 #### 🟢 **AIM Technologies** — Software Engineer  
 📅 *June 2025 – November 2025* · Cairo, Egypt  
 💻 *Tech:* Node.js · Express.js · MongoDB · React.js · NestJS · Jenkins  
